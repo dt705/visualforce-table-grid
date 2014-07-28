@@ -266,15 +266,7 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>CanInsertFeedSystemFields</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>CanUseNewDashboardBuilder</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ChatterFileLink</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -291,10 +283,6 @@
     <userPermissions>
         <enabled>false</enabled>
         <name>ConnectOrgToEnvironmentHub</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
-        <name>ContentAdministrator</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
