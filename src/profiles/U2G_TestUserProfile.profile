@@ -482,10 +482,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>ManageNetworks</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>ManagePackageLicenses</name>
     </userPermissions>
     <userPermissions>
