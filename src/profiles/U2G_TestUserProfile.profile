@@ -333,10 +333,6 @@
         <name>EditHtmlTemplates</name>
     </userPermissions>
     <userPermissions>
-        <enabled>false</enabled>
-        <name>EditKnowledge</name>
-    </userPermissions>
-    <userPermissions>
         <enabled>true</enabled>
         <name>EditOppLineItemUnitPrice</name>
     </userPermissions>
@@ -475,14 +471,6 @@
     <userPermissions>
         <enabled>false</enabled>
         <name>ManageInteraction</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
-        <name>ManageKnowledge</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
-        <name>ManageKnowledgeImportExport</name>
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
