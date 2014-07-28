@@ -245,10 +245,6 @@
         <name>ActivateContract</name>
     </userPermissions>
     <userPermissions>
-        <enabled>false</enabled>
-        <name>AllowUniversalSearch</name>
-    </userPermissions>
-    <userPermissions>
         <enabled>true</enabled>
         <name>AllowViewKnowledge</name>
     </userPermissions>
