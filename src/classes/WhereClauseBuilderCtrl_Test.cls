@@ -69,7 +69,7 @@ private class WhereClauseBuilderCtrl_Test {
             System.assertEquals(1, statementsAfterAdd);
             System.assertEquals(0, statementsBeforeAdd);
             
-            System.assertEquals(null, ctrl.valueHolder.get(ctrl.selectedField));
+            System.assertEquals(3.33, ctrl.valueHolder.get(ctrl.selectedField));
         }
     }
 }
