@@ -494,10 +494,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>ManageSynonyms</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>ManageUsers</name>
     </userPermissions>
     <userPermissions>
@@ -562,15 +558,7 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>UseTeamReassignWizards</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>ViewAllData</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
-        <name>ViewDataCategories</name>
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
