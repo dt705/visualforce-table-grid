@@ -269,18 +269,6 @@
         <name>CanUseNewDashboardBuilder</name>
     </userPermissions>
     <userPermissions>
-        <enabled>true</enabled>
-        <name>ChatterInternalUser</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ChatterInviteExternalUsers</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ChatterOwnGroups</name>
-    </userPermissions>
-    <userPermissions>
         <enabled>false</enabled>
         <name>ConnectOrgToEnvironmentHub</name>
     </userPermissions>
@@ -450,10 +438,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>ManageChatterMessages</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>ManageContentPermissions</name>
     </userPermissions>
     <userPermissions>
@@ -535,10 +519,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>MassInlineEdit</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
-        <name>ModerateChatter</name>
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
